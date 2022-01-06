@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-**Background** As part of Sam's doctoral research, he worked alongside growers in the shellfish aquaculture industry to investigate techniques for hatchery enhancement - applied bioinformatic tools to understand the influence of early-life 'programming windows' when acclimation, or priming/hormesis, can buffer against subsequent environmental change. Check out my [open hatchery handbook for Pacific geoduck clams](https://github.com/SamGurr/Geoduck_handbook/blob/master/Geoduck_aquaculture.md)!
+**Background..** As part of Sam's doctoral research, he worked alongside growers in the shellfish aquaculture industry to investigate techniques for hatchery enhancement - applied bioinformatic tools to understand the influence of early-life 'programming windows' when acclimation, or priming/hormesis, can buffer against subsequent environmental change. Check out my [open hatchery handbook for Pacific geoduck clams](https://github.com/SamGurr/Geoduck_handbook/blob/master/Geoduck_aquaculture.md)!
 
-**Current** NRC Post-doctral Research Associate at NOAA NMFS in Milford, CT [NOAA Contractor/Affiliate](https://www.fisheries.noaa.gov/contact/sam-gurr-phd) - I am motivated to understand the rules of life that allow organisms to persist in our ever-changing world. At Milford, I work alonside a mulitidisciplinary team on a multi-year Bay scallop rearing project. I seek to synthesize physiological, cellular, and multi-omics data to understand the adaptive machinery underpinning environmental resilience (i.e. attenuated mitcohondrial capacity/signlaing, gene expression, genetic and non-genetic variation, etc.) within and across generational timescales.
+**Current..** NRC Post-doctral Research Associate at NOAA NMFS in Milford, CT [NOAA Contractor/Affiliate](https://www.fisheries.noaa.gov/contact/sam-gurr-phd) - I am motivated to understand the rules of life that allow organisms to persist in our ever-changing world. At Milford, I work alonside a mulitidisciplinary team on a multi-year Bay scallop rearing project. I seek to synthesize physiological, cellular, and multi-omics data to understand the adaptive machinery underpinning environmental resilience (i.e. attenuated mitcohondrial capacity/signlaing, gene expression, genetic and non-genetic variation, etc.) within and across generational timescales.
 
-🌱 I am current learning bioinformatic tools to explore adaptive loci using lcWGS data. I am also excited to build an understanding in subcellular activity - how mitochondrial capacity/signaling can affect cellular homeostasis and the functional transciptome is of particular interest. 
+🌱 I am learning bioinformatic tools to explore adaptive loci using lcWGS data. I am also excited to build an understanding in subcellular mechanisms - the role of mitochondrial capacity/retrograde signaling on cellular homeostasis and the functional transciptome is of particular interest. 
 
+💬 Happy to talk science 
 📫 Email: samjgurr@gmail.com / samuel_gurr@noaa.gov
+😄 Pronouns: he/him
 
 <!--
 **SamGurr/SamGurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
