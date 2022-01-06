@@ -7,6 +7,7 @@
 🌱 I am learning bioinformatic tools to explore adaptive loci using lcWGS data. I am also excited to build an understanding in subcellular mechanisms - the role of mitochondrial capacity/retrograde signaling on cellular homeostasis and the functional transciptome is of particular interest. 
 
 📫 Email: samjgurr@gmail.com / samuel_gurr@noaa.gov
+
 😄 Pronouns: he/him
 
 <!--
