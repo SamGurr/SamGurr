@@ -8,6 +8,8 @@
 
 📫 Email: samjgurr@gmail.com / samuel_gurr@noaa.gov
 
+⚡ I am an advocate for open science and strive to dissolve inaccessible barriers - submitting to public repositories (such as Github!) keeps my data transparent and accessible! I am interested expanding this thread in my current and future career endevours 💬 Please let me know if you have any suggestions!  
+
 😄 Pronouns: he/him
 
 <!--
