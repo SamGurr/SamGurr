@@ -8,7 +8,7 @@
 
 📫 Email: samjgurr@gmail.com / samuel_gurr@noaa.gov
 
-⚡ I am an advocate for open science and strive to dissolve inaccessible barriers - submitting to public repositories (such as Github and Zenodo!) keeps my data transparent and accessible. Interested in expanding upon this thread in my current and future career endevours 💬 Please reach out, glad to chat!  
+⚡ I am an advocate for open science and strive to dissolve inaccessible barriers - submitting to public repositories (such as Github and Zenodo!) keeps my data transparent and accessible. Interested in expanding upon this thread in my current and future career endevours 💬 Please reach out, happy to chat!  
 
 😄 Pronouns: he/him
 
