@@ -4,8 +4,6 @@
 
 ⚡ I am an advocate for open science and strive to dissolve inaccessible barriers - submitting to public repositories (such as Github and Zenodo!) keeps my data transparent and accessible. Interested in expanding upon this thread in my current and future career endevours. Please reach out if you have any suggestions or just want to talk science,  happy to chat!  
 
-😄 Pronouns: he/him
-
 <!--
 **SamGurr/SamGurr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
